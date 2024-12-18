@@ -1,8 +1,5 @@
 # E-Learning-Platform_CaseStudy3
 An E-Learning Platform project implemented in Python. This platform supports features like user management, course management, enrollment, assignments, and a grading system. The platform includes a command-line interface for easy interaction and management.
-# E-Learning Platform
-
-An **E-Learning Platform** implemented in Python. This application provides functionalities for managing students, instructors, courses, assignments, and grades. It also allows enrollment and tracking of performance through a command-line interface.
 
 ## Features
 - **User Management**
