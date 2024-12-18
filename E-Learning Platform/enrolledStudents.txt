@@ -1,0 +1,20 @@
+1,Math 101
+3,Science 102
+4,History 201
+5,Literature 103
+6,Physics 104
+7,Chemistry 105
+8,Biology 106
+9,Computer Science 201
+10,Philosophy 202
+11,Art 101
+12,Statistics 107
+13,Geography 108
+14,Economics 109
+15,Psychology 110
+16,Sociology 111
+17,Music 112
+18,Theater 113
+19,Engineering 114
+20,Environmental Science 115
+21,PathFit3

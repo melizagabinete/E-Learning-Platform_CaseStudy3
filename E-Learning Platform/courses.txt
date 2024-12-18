@@ -1,0 +1,23 @@
+Math 101,Monday,9:00 AM
+Science 102,Tuesday,10:00 AM
+History 201,Wednesday,2:00 PM
+Literature 103,Thursday,11:00 AM
+Physics 104,Friday,1:00 PM
+Chemistry 105,Monday,2:00 PM
+Biology 106,Tuesday,3:00 PM
+Computer Science 201,Wednesday,9:00 AM
+Philosophy 202,Thursday,4:00 PM
+Art 101,Friday,10:00 AM
+Statistics 107,Monday,10:00 AM
+Geography 108,Tuesday,1:00 PM
+Economics 109,Wednesday,11:00 AM
+Psychology 110,Thursday,2:00 PM
+Sociology 111,Friday,3:00 PM
+Music 112,Monday,1:00 PM
+Theater 113,Tuesday,4:00 PM
+Engineering 114,Wednesday,12:00 PMlear
+Environmental Science 115,Thursday,9:00 AM
+Health 116,Friday,2:00 PM
+PathFit3,Wednesday,1:00 PM
+OOP,Monday,9:00
+OOP,Monday,9:00 AM
